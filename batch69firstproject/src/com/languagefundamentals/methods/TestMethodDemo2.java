@@ -7,21 +7,21 @@ public class TestMethodDemo2 {
 		System.out.println("addition method called ");
 		int a = 10;
 		int b = 20;
-		System.out.println(a + b);
+		System.out.println(a + b);//Sum 
 	}
 
 	void subtraction() {
 		System.out.println("subtraction method called ");
 		int a = 10;
 		int b = 20;
-		System.out.println(a - b);
+		System.out.println(a - b);//Difference 
 	}
 
 	void multiplication() {
 		System.out.println("multiplication method called ");
 		int a = 10;
 		int b = 20;
-		System.out.println(a * b);
+		System.out.println(a * b);//product
 	}
 
 	void division() {
