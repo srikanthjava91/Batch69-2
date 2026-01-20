@@ -38,8 +38,9 @@ public class TestOpDemo4 {
 		System.out.println(a);
 		System.out.println(b);
 
-		System.out.println(++a + ++a + b++ + a++ + b++ + a++);//38 46 42 26 39 42 45
-
+		//7 + 8 + 6 + 8 + 7 + 9 
+		System.out.println(++a + ++a + b++ + a++ + b++ + a++);//
+		
 	}
 
 }
